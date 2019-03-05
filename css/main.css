@@ -34,7 +34,8 @@ a:focus {
 }
 blockquote {
   color: #808080;
-  font-style: italic;
+    font-size: 19px;
+
 }
 blockquote p:first-child {
   margin-top: 0;
