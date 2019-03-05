@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Flake it till you make it
-subtitle: 
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
