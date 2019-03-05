@@ -13,7 +13,8 @@ They’re available from Active Distribution or AK Press, or (in the US) from PM
 ![e4e badge](/img/badges.jpg)
 
 And if you live in the UK and want to buy a bundle (10 or more) for your friends and comrades, then drop us a line at info@ our web address and we’ll see what we can do.
-Critical patch update…
+
+## Critical patch update…
 
 ![e4e badge](/img/patches.jpg)
 
