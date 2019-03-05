@@ -24,6 +24,7 @@ description: omnia sunt communia!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Buy: "buy"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
