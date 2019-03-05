@@ -5,6 +5,7 @@ subtitle:
 ---
 
 “Just what is it that you want to do?” That’s the sort of barb thrown at anyone struggling for a better world. It’s tempting to reply that “We wanna be free. We wanna be free to do what we wanna do. And we wanna get loaded. And we wanna have a good time…” But it’s not quite as simple as that. How exactly are we gonna be free?
+
 One way to answer that is by flipping it on its head and thinking about the ways in which we are unfree. There’s a brilliant book called *Communism for Kids* by Bini Adamczak which contains this passage about playing a Ouija board:
 
 >A group of people sits in a circle around a board with a glass in the middle. All the letters of the alphabet are written on the board. Everyone puts a hand or finger on the glass, and because everybody is unconsciously trembling a tiny bit, the glass begins to move, as if pushed by an invisible hand, slowly, from one letter to the next. The people don’t realize that they moved the glass themselves, because their individual trembling could never have moved it alone. Instead, they think it was a spirit channeling some kind of message through them.
