@@ -7,10 +7,10 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Merriweather Light','Georgia', 'Lora', 'Times New Roman', serif;
+  font-family: 'Merriweather','Georgia', 'Lora', 'Times New Roman', serif;
   font-size: 18px;
   line-height: 1.75em;
-   font-weight: 300;
+  font-weight: 300;
   color: #3a4145;
   position: relative;
   background-color: {{ site.page-col }};
