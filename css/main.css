@@ -7,8 +7,9 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Roboto Slab','Georgia', 'Lora', 'Times New Roman', serif;
-  font-size: 20px;
+  font-family: 'Merriweather','Georgia', 'Lora', 'Times New Roman', serif;
+  font-size: 18px;
+  line-height: 1.75em;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
@@ -34,8 +35,6 @@ a:focus {
 }
 blockquote {
   color: #808080;
-    font-size: 19.5px;
-
 }
 blockquote p:first-child {
   margin-top: 0;
@@ -363,7 +362,7 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Georgia', 'Lora', 'Times New Roman', serif;
+  font-family: 'Merriweather','Georgia', 'Lora', 'Times New Roman', serif;
 }
 .post-entry-container {
   display: inline-block;
