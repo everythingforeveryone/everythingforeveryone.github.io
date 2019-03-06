@@ -2,7 +2,7 @@
 layout: page
 title: Shiny, shiny commidities…
 subtitle: "Accumulate, accumulate! That is Moses and the prophets!"
-bigimg: /img/e4ebadge.jpg
+bigimg: /img/e4ebadge_darker.jpg
 
 ---
 
