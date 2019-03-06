@@ -10,7 +10,8 @@ body {
   font-family: 'Merriweather','Georgia', 'Lora', 'Times New Roman', serif;
   font-size: 18px;
   line-height: 1.75em;
-  color: #404040;
+   font-weight: light;
+  color: #3a4145;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
