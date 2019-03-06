@@ -5,7 +5,7 @@ subtitle:
 bigimg: /img/e4ebadge_darker.jpg
 ---
 
-“Just what is it that you want to do?” That’s the sort of barb thrown at anyone struggling for a better world. It’s tempting to reply that [“We wanna be free. We wanna be free to do what we wanna do. And we wanna get loaded. And we wanna have a good time…”](https://www.youtube.com/watch?v=wf73xqZvk6k) But it’s not quite as simple as that. How exactly are we gonna be free?
+**“Just what is it that you want to do?”** That’s the sort of barb thrown at anyone struggling for a better world. It’s tempting to reply that [“We wanna be free. We wanna be free to do what we wanna do. And we wanna get loaded. And we wanna have a good time…”](https://www.youtube.com/watch?v=wf73xqZvk6k) But it’s not quite as simple as that. How exactly are we gonna be free?
 
 One way to answer that is by flipping it on its head and thinking about the ways in which we are unfree. There’s a brilliant book called [*Communism for Kids*](https://mitpress.mit.edu/books/communism-kids) by Bini Adamczak which contains this passage about playing a Ouija board:
 
