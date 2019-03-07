@@ -17,7 +17,7 @@ Adamczak goes on to explain that society is just like the Ouija board:
 
 >There’s no magic without the glass, but there’s even less magic without *us*. The glass didn’t move because of an invisible hand but rather because we cooperated together […] We made everything ourselves […] All these things are as much a part of us as we are a part of them. That means we can change them whenever we want.
 
-Yep, that’s it right there. *We made everything ourselves.*
+Yep, that’s it right there. **We made everything ourselves.**
 
 Two things flow from this. First, if we made everything ourselves, then we can re-make it differently. Inequality isn’t natural. Injustice isn’t natural. The market isn’t natural. These are all things we can make and un-make. Second, if we made everything ourselves, then it’s all ours. Everything for everyone! Or as someone put it succinctly on Twitter:
 
