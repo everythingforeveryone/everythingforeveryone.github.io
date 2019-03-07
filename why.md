@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Three little words…
-subtitle: 
+subtitle: Omnia sunt communia
 bigimg: /img/e4ebadge_darker.jpg
 ---
 
