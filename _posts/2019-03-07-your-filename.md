@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: The title goes here
+title: A test new post on Thursday
 ---
 Haruptatur, **soloruptium** siti offici ipsandae eos eum utem nes aut aut et volento es num ut est ratiber iatiatem aut que min nonsedi pienducimus sit vero es aut erum fugitas ea quam cus aceratur, nus cum vendanis maximpos sitassim et quasim quatis voluptatur aut et et voloriam, quaectatem ipicab ipsum recturi anduntint volute pres as in pla doles am nonsequ ibuscim ilique parist et min nonecus earchitiatus dolorem facculpa que int acipsan tempor aligendaepro is eos minverrovid moleni oditiae la verchicia sus magnis se velitate ex et fugitas aliquodis expla nulparum repre re volorro doluptatquo voluptia ditiorerum volore
 
