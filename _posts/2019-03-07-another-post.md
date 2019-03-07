@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Another post
 ---
 Nestibus, solor reperferunt volorepratur simolorit dolupta tiossit il essit pernatecae volupta epelia doluptat quiduci tatium es magnim volorem dolupta dempor accus earum quuntur as amet etur?
