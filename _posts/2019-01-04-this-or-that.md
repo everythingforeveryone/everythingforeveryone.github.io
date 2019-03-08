@@ -29,4 +29,6 @@ Reform or revolution aren’t the actual choices on offer. We don’t have to ch
 
 > Meaningful action, for revolutionaries, is whatever increases the confidence the autonomy, the initiative, the participation, the solidarity, the equalitarian tendencies and the self-activity of the masses and whatever assists in their demystification. Sterile and harmful action is whatever reinforces the passivity of the masses, their apathy, their cynicism, their differentiation through hierarchy, their alienation, their reliance on others to do things for them and the degree to which they can therefore be manipulated by others – even by those allegedly acting on their behalf.
 
-* Yeh, yeh, I know this isn’t really a [random slogan](https://antigestiontoulouse.wordpress.com/) thrown up in the heat of battle but it’s a pretty cool photo. And I can dream, can’t I?
+___
+
+\* Yeh, yeh, I know this isn’t really a [random slogan](https://antigestiontoulouse.wordpress.com/) thrown up in the heat of battle but it’s a pretty cool photo. And I can dream, can’t I?
