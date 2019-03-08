@@ -4,6 +4,8 @@ published: true
 title: Falling into fancy fragments
 date: '2018-05-24'
 ---
+![fancy_fragments.jpg]({{site.baseurl}}/img/fancy_fragments.jpg)
+
 I went to see Viv Albertine speak a few weeks ago and a few things have been going round my head ever since.
 
 First, there was the slightly surreal experience of paying a gig price to hear a punk icon give a talk in a music venue. I’m not saying it’s a bad thing (far from it) but it was a bit jarring. The room was packed, with all the hardcore fans down the front, in the (seated) moshpit. And of course it was a predominantly aging audience, people like myself. Again, that’s no bad thing but it felt odd to be in such a sedate atmosphere, especially when a few weeks earlier I’d been to see the Mekons whose original 1977 line-up kicked and screamed as if lives—theirs and ours—still depended on it. As if music mattered. Just to underline the point, they opened the set with a denunciation of capitalism before launching into [‘32 Weeks’](https://www.youtube.com/watch?v=ec3ChH5uAuQ).
