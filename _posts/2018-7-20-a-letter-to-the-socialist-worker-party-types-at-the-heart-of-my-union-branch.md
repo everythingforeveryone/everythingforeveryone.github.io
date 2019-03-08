@@ -24,4 +24,5 @@ I doubt you can change your nature – which would be revealing in itself – �
 Yours
 
 **X**
+
 ![socialist_wanker.jpg]({{site.baseurl}}/img/socialist_wanker.jpg)
