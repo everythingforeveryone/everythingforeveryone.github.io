@@ -3,6 +3,8 @@ layout: post
 published: false
 title: Through the looking class
 ---
+![infinite.mirrors.jpg]({{site.baseurl}}/img/infinite.mirrors.jpg)
+
 When I look in the mirror, I see more than a simple reflection of my outward appearance. Most of the time I see a ‘me’ that is more ‘me’ than yesterday. This is partly an effect of growing old. A few months back I was driving home when I stopped to let an old man and young woman cross the road. He was walking with a slight stoop, his face was pinched and his clothes had clearly seen better days; it was only when he had crossed that I recognised him as one of my best friends. He was on the wrong side of town at the wrong time of day but it was still a shock to realise that this battered old man was only 12 months my senior. Fuck! Is _that_ what I look like?
 
 But it’s more than just old age that stares back at me. There’s been a steady accretion of experiences, postures, and events which all combine to make me more ‘me’ than ever. Thirty years ago the ‘me’ that stared back from the mirror was more unformed. Less substantial maybe but also open, unshaped. A face that was (literally) not yet scarred. A face that was to-come. Today the lines on my face tell a story of where I’ve been, of who I’ve been, of who I’ve become. These calcifying layers put me in mind of a 1950s B-movie where the protagonist is gradually sheathed in some kind of hard carapace until the only thing moving is an eye which grimly blinks out an S-O-S like a human lighthouse. Actually I think I’m combining several different cinematic tropes here but you get the picture: as I’ve become more ‘me’, the conditions of possibility have necessarily become more constrained.
@@ -17,4 +19,4 @@ One way to deal with this is to think about the make-up of a group, the way that
 
 In politics, demands go from one body to another. “We” demand more pay, better resources, greater freedom. “They” demand tighter border controls, more armed police on the streets etc. When we make those demands, we often reinforce our identity as a social force. “We” become ever more workers, social democrats, trade unionists, activists etc. But “everything for everyone” is a very different sort of demand because it doesn’t go in any specific direction. It isn’t _to_ anyone. And it isn’t _from_ anyone. In that respect, it might be one way to step through the mirror and address the perennial paradox of revolutionary transformation, summed up brilliantly by [Kathi Weeks](https://www.dukeupress.edu/the-problem-with-work):
 
-    Can we want, and are we willing to create, a new world that would no longer be “our” world, a social form that would not produce subjects like us?
+> Can we want, and are we willing to create, a new world that would no longer be “our” world, a social form that would not produce subjects like us?
