@@ -3,12 +3,13 @@ layout: post
 published: true
 title: Falling into fancy fragments
 date: '2018-05-24'
+excerpt_separator: <!--more-->
 ---
 ![fancy_fragments.jpg]({{site.baseurl}}/img/fancy_fragments.jpg)
 
 I went to see Viv Albertine speak a few weeks ago and a few things have been going round my head ever since.
 
-First, there was the slightly surreal experience of paying a gig price to hear a punk icon give a talk in a music venue. I’m not saying it’s a bad thing (far from it) but it was a bit jarring. The room was packed, with all the hardcore fans down the front, in the (seated) moshpit. And of course it was a predominantly aging audience, people like myself. Again, that’s no bad thing but it felt odd to be in such a sedate atmosphere, especially when a few weeks earlier I’d been to see the Mekons whose original 1977 line-up kicked and screamed as if lives—theirs and ours—still depended on it. As if music mattered. Just to underline the point, they opened the set with a denunciation of capitalism before launching into [‘32 Weeks’](https://www.youtube.com/watch?v=ec3ChH5uAuQ).
+First, there was the slightly surreal experience of paying a gig price to hear a punk icon give a talk in a music venue. I’m not saying it’s a bad thing (far from it) but it was a bit jarring.<!--more--> The room was packed, with all the hardcore fans down the front, in the (seated) moshpit. And of course it was a predominantly aging audience, people like myself. Again, that’s no bad thing but it felt odd to be in such a sedate atmosphere, especially when a few weeks earlier I’d been to see the Mekons whose original 1977 line-up kicked and screamed as if lives—theirs and ours—still depended on it. As if music mattered. Just to underline the point, they opened the set with a denunciation of capitalism before launching into [‘32 Weeks’](https://www.youtube.com/watch?v=ec3ChH5uAuQ).
 
 So I was struck by something Viv said in response to a question about whether she still listened to music. I’m paraphrasing here but the gist of her reply was that, for her, music had been a tool, a means of escape. The Slits had set out to [deconstruct music](https://www.youtube.com/watch?v=PCr8V5wAroA), to break it down and tear it apart on the way to creating a different sort of world. So now it’s just too painful to switch on the radio and hear some clunking, predictable 4/4 rock’n’roll, as if the events of the late 1970s had never happened.
 
