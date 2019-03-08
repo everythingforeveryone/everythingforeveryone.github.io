@@ -4,6 +4,9 @@ published: true
 title: This or that?
 date: '2019-01-04'
 ---
+![on-veut-des-thunes.jpg]({{site.baseurl}}/img/on-veut-des-thunes.jpg)
+
+
 The above graffiti* appeared on the streets of France during the recent _gilets jaunes_ protests. Roughly translated as “Give us cash while we wait for communism”, it’s perhaps another way to re-pose Luxemburg’s question: Reform or revolution? Inside or against? This or that?
 
 Like most people, I’ve got a complicated relation to reformism, neatly encapsulated by my introduction to political thinking. I was working as a waitress in a cocktail ba… no, hang on, I was working in the packing department of a pneumatics supplier when two fellow workers moved from talking about punk to talking about politics. “Are you a lefty, then?” said one. “Umm, dunno…” I muttered, not really sure what they were on about. I mean, I’d got a post-punk sensibility (this was 1981) but I was pretty wet behind the ears. “Well, you should get hold of Tony Benn’s _Arguments for Socialism_ and _The Communist Manifesto_…” And there you have it: a manifesto for radical social democracy from a bona fide aristocrat set alongside a call for global proletarian revolution. Give us cash while we wait for communism indeed…
