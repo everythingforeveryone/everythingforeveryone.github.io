@@ -1,7 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: The beaten generation
+date: '2019-01-20'
 ---
 I’ve just finished reading [_King Mob: A Critical Hidden History_](http://www.revoltagainstplenty.com/index.php/archive-local/93-a-hidden-history-of-king-mob.html) so it seems a good excuse to post this cover from the first issue of King Mob Echo. Plus it features that brilliant Marx quote.
 
