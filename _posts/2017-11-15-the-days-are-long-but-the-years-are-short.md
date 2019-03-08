@@ -3,11 +3,12 @@ layout: post
 published: true
 title: The days are long but the years are short
 date: '2017-11-15'
+excerpt_separator: <!--more-->
 ---
 ![working_class_against_mondays.jpg]({{site.baseurl}}/img/working_class_against_mondays.jpg)
 
 
-I’ve been meaning to write some notes about work for a while now but… well… work keeps getting in the way. Weekends come round fast but they’re over too soon, and then it’s back to work. Rinse and repeat. A life lived out in fits and starts to a rhythm of resentment. It’s not just me. It’s a sensation familiar to anyone who’s ever been caught up in waged work. But perhaps I’ve been feeling it more acutely of late, probably as a consequence of getting older, thinking more about mortality as I close on the finishing line (don’t even get me started on pensions).
+I’ve been meaning to write some notes about work for a while now but… well… work keeps getting in the way. Weekends come round fast but they’re over too soon, and then it’s back to work. Rinse and repeat.<!--more--> A life lived out in fits and starts to a rhythm of resentment. It’s not just me. It’s a sensation familiar to anyone who’s ever been caught up in waged work. But perhaps I’ve been feeling it more acutely of late, probably as a consequence of getting older, thinking more about mortality as I close on the finishing line (don’t even get me started on pensions).
 
 Remember when computers were going to herald an age of leisure? Yet as everyone knows in their bones, we spend more hours working now than ever. It’s easy to think of capitalism as an economic system built around the need to generate profit, but actually it’s more than that. Capitalism is a mode of production that controls and dominates human beings by putting us to work – whether that work is waged or unwaged, ‘free’ or forced. To paraphrase the opening line of _Capital_, the wealth of societies in which the capitalist mode of production prevails appears as an [“immense collection of jobs”](https://strikemag.org/bullshit-jobs/). Capital is a beast that must be fed; or perhaps we can flip that on its head and think of human beings as the beasts whose desire for freedom must be tamed, controlled, channelled or suppressed.
 
