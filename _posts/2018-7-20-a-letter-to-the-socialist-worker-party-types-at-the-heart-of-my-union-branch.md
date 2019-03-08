@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: A letter to the Socialist Worker Party types at the heart of my union branch
-date: '2018-17-20'
+date: '2018-7-20'
 ---
 ![swplese.png]({{site.baseurl}}/img/swplese.png)
 
