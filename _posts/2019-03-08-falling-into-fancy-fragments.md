@@ -1,7 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: Falling into fancy fragments
+date: '2018-05-24'
 ---
 I went to see Viv Albertine speak a few weeks ago and a few things have been going round my head ever since.
 
