@@ -1,7 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: Through the looking class
+date: '2019-02-26'
 ---
 ![infinite.mirrors.jpg]({{site.baseurl}}/img/infinite.mirrors.jpg)
 
