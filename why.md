@@ -2,7 +2,7 @@
 layout: page
 title: Three little words…
 subtitle: Omnia sunt communia
-bigimg: /img/e4ebadge_darker.jpg
+bigimg: /assets/e4ebadge_darker.jpg
 ---
 
 **“Just what is it that you want to do?”** That’s the sort of barb thrown at anyone struggling for a better world. It’s tempting to reply that [“We wanna be free. We wanna be free to do what we wanna do. And we wanna get loaded. And we wanna have a good time…”](https://www.youtube.com/watch?v=wf73xqZvk6k) But it’s not quite as simple as that. How exactly are we gonna be free?
@@ -23,7 +23,7 @@ Two things flow from this. First, if we made everything ourselves, then we can r
 
 >Look out the goddamned windows people. Everything you see belongs to us. We ain’t building no alternative nothing. THIS SHIT IS OURS!
 
-![everything for everyone banner](/img/e4ebanner.jpg)
+![everything for everyone banner](/assets/e4ebanner.jpg)
 
 “Everything for everyone.” Those three little words carry a huge amount of power. They suggest the outline of a different sort of world. And by doing that, they offer us a perspective to shape the way we carry on our day-to-day struggles. Our lives (and loves) are never abstract: they happen in gritty everyday reality and it’s here where our struggles begin. We fight against *these* cuts, *those* bosses, *this* government. We organise against *this* event, *those* dynamics, *this* model… Along the way it’s easy to lose sight of our ultimate goal, so it’s crucial to have some horizon, a way to lift our eyes from the here-and-now and see the wider picture. Eyes on the prize. “Everything for everyone” acts as a reminder of just what it is that we want to do…
 
