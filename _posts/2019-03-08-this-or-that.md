@@ -1,7 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: This or that?
+date: '2019-01-04'
 ---
 The above graffiti* appeared on the streets of France during the recent _gilets jaunes_ protests. Roughly translated as “Give us cash while we wait for communism”, it’s perhaps another way to re-pose Luxemburg’s question: Reform or revolution? Inside or against? This or that?
 
