@@ -3,13 +3,14 @@ layout: post
 published: true
 title: A letter to the Socialist Worker Party types at the heart of my union branch
 date: '2018-07-20'
+excerpt_separator: <!--more-->
 ---
 ![swplese.png]({{site.baseurl}}/img/swplese.png)
 
 
 **Dear C and P**
 
-I was excited when you arrived and got involved in the branch. You captured key positions – I say ‘captured’, probably you just volunteered for them when incumbents had had enough – and the character of the branch seemed to change overnight. Where before branch officials appeared acquiescent and eager to maintain cordial relations with management, you were belligerent with bosses and prepared to fight. I give you credit for this. And I give you credit for getting me involved too. (Though as a comrade remarked later, you preferred for me to be inside the tent pissing out, rather than outside and pissing in.) I knew you were SWP members – or possibly you’d allowed your membership to lapse after the Comrade Delta events – but I was optimistic we could still work together.
+I was excited when you arrived and got involved in the branch. You captured key positions – I say ‘captured’, probably you just volunteered for them when incumbents had had enough – and the character of the branch seemed to change overnight.<!--more--> Where before branch officials appeared acquiescent and eager to maintain cordial relations with management, you were belligerent with bosses and prepared to fight. I give you credit for this. And I give you credit for getting me involved too. (Though as a comrade remarked later, you preferred for me to be inside the tent pissing out, rather than outside and pissing in.) I knew you were SWP members – or possibly you’d allowed your membership to lapse after the Comrade Delta events – but I was optimistic we could still work together.
 
 I can’t fault your dedication and your discipline. But you never seem very interested in strategic thinking – and this was obvious from the beginning. Militancy of course! But always a reluctance to discuss what this might actually mean. How exactly might we strike against our employer? And beyond better ‘pay and conditions’, what might our workplace look like? Under your leadership of the branch there never seems to be enough time or space to talk about these questions; in fact such questions are usually shunted to the agenda-end and then timed out.
 
