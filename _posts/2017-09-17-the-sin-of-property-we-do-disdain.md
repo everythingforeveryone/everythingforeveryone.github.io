@@ -3,11 +3,12 @@ layout: post
 published: true
 title: “The sin of property we do disdain…”
 date: '2017-09-17'
+excerpt_separator: <!--more-->
 ---
 ![the_sin_of_property.jpg]({{site.baseurl}}/img/the_sin_of_property.jpg)
 
 
-> Here was the true Great Spirit, the divine thread connecting all human endeavour – if you can keep it, it is yours. Your property, slave or continent. The American imperative.
+> Here was the true Great Spirit, the divine thread connecting all human endeavour – if you can keep it, it is yours. Your property, slave or continent. The American imperative.<!--more-->
 – Colson Whitehead, _The Underground Railroad_
 
 Of course there’s nothing specifically American about the drive to seize people, things and spaces and claim them as your own. Whitehead acknowledges this when he say elsewhere that “one might think one’s misfortunes distinct, but the true horror lay in their universality.” That “true horror” is the capitalist imperative: to capture; to corral; to enclose; to own.
